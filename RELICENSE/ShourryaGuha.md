@@ -1,4 +1,3 @@
-```md
 # Permission to Relicense under any OSI Approved License Chosen by the chrysalis-blc Project Team
 
 This is a statement by Shourrya Guha that grants permission to relicense its copyrights in the
@@ -12,4 +11,3 @@ future contributions of the author listed above.
 
 Shourrya Guha 
 creation date of document (format: 2022/01/30)
-```
