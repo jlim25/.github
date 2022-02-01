@@ -2,7 +2,7 @@
 
 This is a statement by Skyler Zane Roland Duggan that grants permission to relicense its copyrights in the
 Chrysalis Blockchain project (chrysalis-blc) under any Open Source Initiative approved license
-chosen by the chrysalis-blc project team.
+chosen by the chrysalis-blc project team..
 
 A portion of the commits made by the Github handle "SkylerDuggan", with commit author 
 "SkylerDuggan", are copyright of Skyler Zane Roland Duggan. This document hereby grants the
